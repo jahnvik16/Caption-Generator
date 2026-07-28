@@ -26,9 +26,10 @@ COPYWRITING_MODEL = "gpt-4o-mini"
 
 # --- Pipeline tuning ---------------------------------------------------------
 
-# Below this average confidence (1 - no_speech_prob) across segments, a clip
-# is treated as having no meaningful speech rather than trusting whatever
-# Whisper transcribed. See transcriber.py for how this is used.
+# If Whisper's average no_speech_prob across segments is at or above this
+# value, a clip is treated as having no meaningful speech rather than
+# trusting whatever text Whisper guessed. See transcriber.py for how this
+# is used.
 NO_SPEECH_PROBABILITY_THRESHOLD = 0.6
 
 # Number of evenly spaced frames extracted from a clip for vision analysis.

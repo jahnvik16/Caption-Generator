@@ -1,0 +1,68 @@
+{
+  "clip_1": {
+    "source_file": "Video 1 - with talking (Clubsweethearts).mp4",
+    "has_speech": true,
+    "subtitles": [
+      {
+        "start": "2.4",
+        "end": "6.6",
+        "text": "Let's celebrate Wooo Lunch"
+      },
+      {
+        "start": "8.1",
+        "end": "10.0",
+        "text": "Oh Mmm"
+      }
+    ],
+    "content_summary": "Let's celebrate! Wooo! Lunch!  Oh! Mmm!",
+    "platforms": {
+      "instagram": {
+        "on_screen_hook": "Lunch celebration vibes!",
+        "on_screen_hook_alt": "Who else loves lunch?",
+        "caption": "Nothing screams happiness like a good lunch break. What’s on your plate today?",
+        "hashtags": [
+          "#LunchTime",
+          "#FoodieFun",
+          "#Celebrate"
+        ]
+      },
+      "tiktok": {
+        "on_screen_hook": "Is it lunch time yet?",
+        "on_screen_hook_alt": "Celebrating lunch like...",
+        "caption": "Wooo! When lunch hits just right. Follow for more delicious moments!",
+        "hashtags": [
+          "#LunchVibes",
+          "#FoodLovers",
+          "#Yum"
+        ]
+      },
+      "x": {
+        "on_screen_hook": "Lunch is worth celebrating!",
+        "on_screen_hook_alt": "Who’s ready to eat?",
+        "caption": "Lunch breaks are the best. Let’s hear what you’re having!",
+        "hashtags": [
+          "#LunchBreak",
+          "#FoodJoy",
+          "#Celebrate"
+        ]
+      }
+    },
+    "dutch": {
+      "instagram": {
+        "on_screen_hook": "Lunchen is feest vieren!",
+        "on_screen_hook_alt": "Wie houdt er ook van lunchen?",
+        "caption": "Niets roept zo veel blijdschap op als een goede lunchpauze. Wat staat er vandaag op jouw bord?"
+      },
+      "tiktok": {
+        "on_screen_hook": "Is het al lunchtijd?",
+        "on_screen_hook_alt": "Lunchen vieren zoals...",
+        "caption": "Wooo! Wanneer de lunch precies goed is. Volg voor meer heerlijke momenten!"
+      },
+      "x": {
+        "on_screen_hook": "Lunchtijd is feesttijd!",
+        "on_screen_hook_alt": "Wie is er klaar om te eten?",
+        "caption": "Lunchpauzes zijn de beste. Laat horen wat jij eet!"
+      }
+    }
+  }
+}

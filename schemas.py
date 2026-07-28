@@ -33,7 +33,13 @@ class PlatformCopy(BaseModel):
     on_screen_hook: str
     on_screen_hook_alt: str
     caption: str
-    hashtags: list[str] = Field(min_length=3, max_length=5)
+    # No min_length/max_length here: OpenAI's Structured Outputs strict mode
+    # doesn't enforce JSON Schema minItems/maxItems at generation time (only
+    # type/structure are actually constrained), so declaring them here would
+    # be a lie the schema tells about itself. The 3-5 count is enforced by
+    # the system prompt instead, with a post-hoc normalization pass in
+    # llm.py that truncates anything over 5 rather than failing the clip.
+    hashtags: list[str]
 
     @field_validator("hashtags")
     @classmethod

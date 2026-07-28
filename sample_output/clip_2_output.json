@@ -1,0 +1,57 @@
+{
+  "clip_1": {
+    "source_file": "Video 2 - no talking (Beauty and the Senior).mp4",
+    "has_speech": false,
+    "subtitles_note": "no speech detected in this clip, subtitles skipped, copy generated from the visuals",
+    "content_summary": "The clip features a man in white attire likely preparing for a day out. He initially exits a room, indicating a casual or relaxed morning mood. Later, he is seen in front of a bed, holding a piece of clothing while contemplating his outfit choices, which adds a humorous element to the clip. In one frame, he inspects a pair of tiny denim shorts, wearing a puzzled expression as he considers their suitability for him, creating a comedic contrast. The setting is bright and airy, suggesting a lighthearted tone throughout the video.",
+    "platforms": {
+      "instagram": {
+        "on_screen_hook": "When getting dressed feels like a major decision...",
+        "on_screen_hook_alt": "This outfit is a serious commitment!",
+        "caption": "Decisions, decisions! Sometimes picking an outfit is harder than it seems. What's your go-to look for a casual day out?",
+        "hashtags": [
+          "#OutfitDecisions",
+          "#CasualStyle",
+          "#MorningRoutine"
+        ]
+      },
+      "tiktok": {
+        "on_screen_hook": "Outfit stress level: 100!",
+        "on_screen_hook_alt": "Why are shorts so confusing?",
+        "caption": "Trying to figure out if these shorts are a yes or a no. What do you think? Follow for more outfit struggles!",
+        "hashtags": [
+          "#FashionDilemma",
+          "#OOTD",
+          "#ShortsChallenge"
+        ]
+      },
+      "x": {
+        "on_screen_hook": "The struggle is real: shorts or not?",
+        "on_screen_hook_alt": "When your outfit makes you question life choices.",
+        "caption": "Picking an outfit shouldn't be this complicated. What's a simple choice you always rely on?",
+        "hashtags": [
+          "#StyleStruggles",
+          "#FashionAdvice",
+          "#CasualOutfit"
+        ]
+      }
+    },
+    "dutch": {
+      "instagram": {
+        "on_screen_hook": "Als je je outfit uitzoeken als een grote beslissing voelt...",
+        "on_screen_hook_alt": "Deze outfit is een serieuze verbintenis!",
+        "caption": "Beslissingen, beslissingen! Soms is het kiezen van een outfit moeilijker dan het lijkt. Wat is jouw favoriete look voor een casual dag?"
+      },
+      "tiktok": {
+        "on_screen_hook": "Outfit stressniveau: 100!",
+        "on_screen_hook_alt": "Waarom zijn shorts zo verwarrend?",
+        "caption": "Proberen uit te zoeken of deze shorts een ja of nee zijn. Wat denken jullie? Volg voor meer outfitstruggels!"
+      },
+      "x": {
+        "on_screen_hook": "De strijd is echt: shorts of niet?",
+        "on_screen_hook_alt": "Als je outfit je levenskeuzes doet twijfelen.",
+        "caption": "Een outfit kiezen zou niet zo ingewikkeld moeten zijn. Wat is een simpele keuze waar je altijd op vertrouwt?"
+      }
+    }
+  }
+}
